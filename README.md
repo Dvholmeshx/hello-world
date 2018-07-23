@@ -1,2 +1,2 @@
 # hello-world
-Stupid Humans!
+hello-world!
